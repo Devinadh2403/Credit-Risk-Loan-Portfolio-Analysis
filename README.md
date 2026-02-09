@@ -11,6 +11,8 @@ Developed a comprehensive Power BI Business Intelligence Suite to analyze a loan
 **Market Share**: Analyzed loan distribution by purpose, identifying Debt Consolidation as the primary driver (61.8%).
 **Growth Trends**: Monitored annual funding cycles vs. interest rate fluctuations to assess market competitiveness.
 **Stability Metrics**: Segmented total payments by Home Ownership (Mortgage vs. Rent) to evaluate borrower collateral patterns.
+### Dashboard Architecture
+![Executive Portfolio Summary](1.PNG)
 
 ### Page 2: Risk & Credit Deep-Dive
 **Objective**: Granular analysis of delinquency, default patterns, and risk-adjusted pricing.
