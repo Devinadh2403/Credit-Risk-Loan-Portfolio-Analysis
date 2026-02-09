@@ -3,7 +3,7 @@
 ## Executive Summary
 Developed a comprehensive Power BI Business Intelligence Suite to analyze a loan portfolio containing over 23,000 records and $362M in total funding. The project is split into two distinct analytical views to serve different organizational stakeholders, focusing on the trade-off between loan volume and credit risk.
 
-## Dashboard Architecture
+## Executive Dashboard Overview
 ### Page 1: Executive Portfolio Summary
 **Objective:** High-level monitoring of business health, growth trends, and borrower demographics.
 **Target Audience:** C-Suite Executives and Portfolio Managers.
@@ -21,7 +21,7 @@ Developed a comprehensive Power BI Business Intelligence Suite to analyze a loan
 **The Danger Zone:** Utilized a Scatter Plot to identify high-risk outliers by correlating Debt-to-Income (DTI) ratios with Interest Rates across different loan grades.
 **Term Concentration:** Visualized the shift in loan terms using 100% Stacked Column Charts, highlighting that lower-grade loans (E, F, G) are heavily concentrated in 60-month terms.
 **Operational Recovery:** Tracked recovery rates and outstanding principal at an individual member level for actionable collections strategy.
-### Dashboard Architecture
+### Executive Dashboard Overview
 ![Risk & Credit Deep-Dive](2.PNG)
 
 ## Technical Skills Demonstrated
