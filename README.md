@@ -21,6 +21,8 @@ Developed a comprehensive Power BI Business Intelligence Suite to analyze a loan
 **The "Danger Zone**: Utilized a Scatter Plot to identify high-risk outliers by correlating Debt-to-Income (DTI) ratios with Interest Rates across different loan grades.
 **Term Concentration**: Visualized the shift in loan terms using 100% Stacked Column Charts, highlighting that lower-grade loans (E, F, G) are heavily concentrated in 60-month terms.
 **Operational Recovery**: Tracked recovery rates and outstanding principal at an individual member level for actionable collections strategy.
+### Dashboard Architecture
+![Risk & Credit Deep-Dive](2.PNG)
 
 ## Technical Skills Demonstrated
 **Data Modeling**: Implementation of a clean star schema for optimized query performance.
