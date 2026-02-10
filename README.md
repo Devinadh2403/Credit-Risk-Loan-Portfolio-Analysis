@@ -3,7 +3,6 @@
 ## Executive Summary
 Developed a comprehensive Power BI Business Intelligence Suite to analyze a loan portfolio containing over 23,000 records and $362M in total funding. The project is split into two distinct analytical views to serve different organizational stakeholders, focusing on the trade-off between loan volume and credit risk.
 
-## Executive Dashboard Overview
 ### Page 1: Executive Portfolio Summary
 **Objective:** High-level monitoring of business health, growth trends, and borrower demographics.
 **Target Audience:** C-Suite Executives and Portfolio Managers.
@@ -11,7 +10,7 @@ Developed a comprehensive Power BI Business Intelligence Suite to analyze a loan
 **Market Share:** Analyzed loan distribution by purpose, identifying Debt Consolidation as the primary driver (61.8%).
 **Growth Trends:** Monitored annual funding cycles vs. interest rate fluctuations to assess market competitiveness.
 **Stability Metrics:** Segmented total payments by Home Ownership (Mortgage vs. Rent) to evaluate borrower collateral patterns.
-### Dashboard Architecture
+### Executive Dashboard Overview
 ![Executive Portfolio Summary](1.PNG)
 
 ### Page 2: Risk & Credit Deep-Dive
